@@ -2,7 +2,7 @@ package main
 
 import(
 
-	"githu.com/vishal763/server/pkg/apis/vishal.dev/v1alpha1"
+	"github.com/vishal763/server/pkg/apis/vishal.dev/v1alpha1"
 )
 
 func main () {
